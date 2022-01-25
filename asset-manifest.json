@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/imagecom/static/css/main.9f0d3503.chunk.css",
-    "main.js": "/imagecom/static/js/main.12cdfc9a.chunk.js",
-    "main.js.map": "/imagecom/static/js/main.12cdfc9a.chunk.js.map",
-    "runtime-main.js": "/imagecom/static/js/runtime-main.ef5f9ba0.js",
-    "runtime-main.js.map": "/imagecom/static/js/runtime-main.ef5f9ba0.js.map",
-    "static/js/2.9a4b322b.chunk.js": "/imagecom/static/js/2.9a4b322b.chunk.js",
-    "static/js/2.9a4b322b.chunk.js.map": "/imagecom/static/js/2.9a4b322b.chunk.js.map",
-    "static/js/3.2b1e64e2.chunk.js": "/imagecom/static/js/3.2b1e64e2.chunk.js",
-    "static/js/3.2b1e64e2.chunk.js.map": "/imagecom/static/js/3.2b1e64e2.chunk.js.map",
-    "index.html": "/imagecom/index.html",
-    "static/css/main.9f0d3503.chunk.css.map": "/imagecom/static/css/main.9f0d3503.chunk.css.map",
-    "static/js/2.9a4b322b.chunk.js.LICENSE.txt": "/imagecom/static/js/2.9a4b322b.chunk.js.LICENSE.txt"
+    "main.css": "/THE-BKS/imagecom2.git/static/css/main.9f0d3503.chunk.css",
+    "main.js": "/THE-BKS/imagecom2.git/static/js/main.7af550e2.chunk.js",
+    "main.js.map": "/THE-BKS/imagecom2.git/static/js/main.7af550e2.chunk.js.map",
+    "runtime-main.js": "/THE-BKS/imagecom2.git/static/js/runtime-main.363ec6c5.js",
+    "runtime-main.js.map": "/THE-BKS/imagecom2.git/static/js/runtime-main.363ec6c5.js.map",
+    "static/js/2.9a4b322b.chunk.js": "/THE-BKS/imagecom2.git/static/js/2.9a4b322b.chunk.js",
+    "static/js/2.9a4b322b.chunk.js.map": "/THE-BKS/imagecom2.git/static/js/2.9a4b322b.chunk.js.map",
+    "static/js/3.2b1e64e2.chunk.js": "/THE-BKS/imagecom2.git/static/js/3.2b1e64e2.chunk.js",
+    "static/js/3.2b1e64e2.chunk.js.map": "/THE-BKS/imagecom2.git/static/js/3.2b1e64e2.chunk.js.map",
+    "index.html": "/THE-BKS/imagecom2.git/index.html",
+    "static/css/main.9f0d3503.chunk.css.map": "/THE-BKS/imagecom2.git/static/css/main.9f0d3503.chunk.css.map",
+    "static/js/2.9a4b322b.chunk.js.LICENSE.txt": "/THE-BKS/imagecom2.git/static/js/2.9a4b322b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ef5f9ba0.js",
+    "static/js/runtime-main.363ec6c5.js",
     "static/js/2.9a4b322b.chunk.js",
     "static/css/main.9f0d3503.chunk.css",
-    "static/js/main.12cdfc9a.chunk.js"
+    "static/js/main.7af550e2.chunk.js"
   ]
 }
